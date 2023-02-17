@@ -1,2 +1,2 @@
 # QR 
-Live link: https://elbaqa.github.io/QR/
+Live link: https://Beqaelbaqidze.github.io/QR/
